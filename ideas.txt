@@ -1,6 +1,9 @@
-primeras ideas en 5 minutos xD
+primeras ideas en 5 minutos xD.
 
-• Lo primero que deberia pedir el el algoritmo es el tamaño de la matriz para crearla (dos variables, una para fila y otra columna)
-• Deberia pedir la info de cada fila/columna
-• Las soluciones son unicas por cada problema
-• 
+• Lo primero que debería pedir el el algoritmo es el tamaño de la matriz para crearla (dos variables, una para fila y otra columna).
+• Debería pedir la info de cada fila/columna.
+• Las soluciones son únicas por cada problema.
+
+Lógicas
+
+• Si el valor es = al tamaño de de la fila/columna, se rellenan todas las posiciones.
