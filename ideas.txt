@@ -1,0 +1,6 @@
+primeras ideas en 5 minutos xD
+
+• Lo primero que deberia pedir el el algoritmo es el tamaño de la matriz para crearla (dos variables, una para fila y otra columna)
+• Deberia pedir la info de cada fila/columna
+• Las soluciones son unicas por cada problema
+• 
